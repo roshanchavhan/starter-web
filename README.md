@@ -9,3 +9,6 @@ This is example is to show different parts of the Git repository and various com
 
 ##Deployment
 Sample website with plenty of files for demos
+
+##Copyright
+Git Copyright
